@@ -1,5 +1,6 @@
 # Bloody-CS2-Cheat
 The free version of the BloodyServices Counter Strike 2 Cheat
+INJECTOR USED: https://github.com/master131/ExtremeInjector/releases/tag/v3.7.3
 
 Update 1:
 Added The OFFICIAL Download as a .rar to optimize the downloading experience for the user.
